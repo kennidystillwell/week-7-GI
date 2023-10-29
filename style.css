@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+    background-color: rgb(174, 215, 220);
+}
+
+.container {
+    border-style: solid;
+    background-color: rgb(241, 219, 242);
+    display: grid;
+
+}
+h1 {
+    color: #0f0f0f;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 2px 2px 4px #c799cf;
+
+}
+
+h3 {
+    color: #070707;
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.outcome {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 20px auto;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+  
