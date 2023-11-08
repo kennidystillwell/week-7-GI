@@ -1,12 +1,18 @@
 body {
     text-align: center;
     background-color: rgb(174, 215, 220);
+    background-image: url(images/background.png);
+    background-size: cover; /* Adjust as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .container {
     border-style: solid;
-    background-color: rgb(241, 219, 242);
+    background-color: rgb(244, 237, 245);
     display: grid;
+    width: 60%;
+    margin: auto;
 
 }
 h1 {
@@ -31,5 +37,10 @@ h3 {
     border-radius: 10px;
     text-align: center;
 }
+
+#outcome-text {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 
   
